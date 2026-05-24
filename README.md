@@ -1,4 +1,4 @@
-# Sou Gabriel Senziani
+# Gabriel Senziani
 
 Estudante de Sistemas de Informação com foco em desenvolvimento back-end e APIs REST.
 

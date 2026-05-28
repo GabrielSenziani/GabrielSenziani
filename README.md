@@ -6,7 +6,7 @@ Atualmente estudando e desenvolvendo projetos com Python, JavaScript, Node.js e 
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ### Back-end
 - JavaScript
@@ -25,7 +25,7 @@ Atualmente estudando e desenvolvendo projetos com Python, JavaScript, Node.js e 
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 ### PrismaCare
 Sistema acadêmico voltado ao gerenciamento de medicamentos para idosos.
@@ -40,7 +40,7 @@ O sistema permite:
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 - Arquitetura de APIs REST
 - Node.js
@@ -50,13 +50,13 @@ O sistema permite:
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Busco oportunidade de estágio em desenvolvimento back-end para evoluir profissionalmente, adquirir experiência prática e contribuir com projetos de software.
 
 ---
 
-## 📫 Contato
+## Contato
 
 - LinkedIn: <https://www.linkedin.com/in/gabriel-senziani>
 - GitHub: https://github.com/GabrielSenziani

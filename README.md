@@ -1,62 +1,57 @@
-# Gabriel Senziani
+<div align="center">
 
-Estudante de Sistemas de Informação com foco em desenvolvimento back-end e APIs REST.
+  <img src="https://komarev.com/ghpvc/?username=GabrielSenziani&label=Profile%20views&color=0e75b6&style=flat" alt="GabrielSenziani" />
+  
+  <br />
 
-Atualmente estudando e desenvolvendo projetos com Python, JavaScript, Node.js e bancos de dados, buscando evoluir na construção de aplicações web e sistemas backend.
+  <h1>🖐️ Sou Gabriel Senziani</h1>
 
----
+  <h3>Estudante de Sistemas de Informação com foco em desenvolvimento back-end e APIs REST.</h3>
+  
+  <p>Atualmente estudando e desenvolvendo projetos com Python, JavaScript, Node.js e bancos de dados, buscando evoluir na construção de aplicações web e sistemas backend. Busco oportunidade de estágio em desenvolvimento back-end para evoluir profissionalmente, adquirir experiência prática e contribuir com projetos de software.</p>
 
-## Tecnologias e Ferramentas
+  ---
 
-### Back-end
-- JavaScript
-- Node.js
-- Express.js
-- APIs REST
-- HTTP
+  ## 🧠 Tecnologias & Linguagens
 
-### Banco de Dados
-- MongoDB
-- SQL
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 
-### Ferramentas
-- Git
-- GitHub
+  <br />
 
----
+  ## 🗄️ Bancos de Dados
 
-## Projetos em destaque
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 
-### PrismaCare
-Sistema acadêmico voltado ao gerenciamento de medicamentos para idosos.
+  <br />
 
-O sistema permite:
-- cadastro de medicamentos
-- definição de horários
-- lembretes automáticos
-- notificações para contatos de segurança via WhatsApp
+  ## 🛠️ Ferramentas & Sistemas
 
-🔗 Projeto: <https://github.com/GabrielSenziani/PrismaCare.git>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
----
+  ---
 
-## Atualmente estudando
+  ## 🚀 Projeto em Destaque
 
-- Arquitetura de APIs REST
-- Node.js
-- Estruturação backend
-- Banco de dados
-- Boas práticas de desenvolvimento
+  ### 🩺 [PrismaCare](https://github.com/GabrielSenziani/PrismaCare.git)
+  **Sistema acadêmico voltado ao gerenciamento de medicamentos para idosos.**
+  *O sistema permite:*
+  Cadastro de medicamentos • Definição de horários • Lembretes automáticos • Notificações de segurança via WhatsApp
 
----
+  ---
 
-## Objetivo
+  ## 📚 Atualmente Estudando
+  Arquitetura de APIs REST • Estruturação Backend • Boas práticas de desenvolvimento
 
-Busco oportunidade de estágio em desenvolvimento back-end para evoluir profissionalmente, adquirir experiência prática e contribuir com projetos de software.
+  ---
 
----
+  ## 🤝 Conecte-se Comigo
 
-## Contato
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-senziani)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielSenziani)
 
-- LinkedIn: <https://www.linkedin.com/in/gabriel-senziani>
-- GitHub: https://github.com/GabrielSenziani
+</div>

@@ -1,6 +1,6 @@
 
 
-  <h1>🖐️ Sou Gabriel Senziani</h1>
+  <h1>Gabriel Senziani</h1>
 
   <h3>Estudante de Sistemas de Informação com foco em desenvolvimento back-end e APIs REST.</h3>
   

@@ -4,7 +4,7 @@
 
   <h3>Estudante de Sistemas de Informação com foco em desenvolvimento back-end e APIs REST.</h3>
   
-  <p>Atualmente estudando e desenvolvendo projetos com Python, JavaScript, Node.js e bancos de dados, buscando evoluir na construção de aplicações web e sistemas backend. Busco oportunidade de estágio em desenvolvimento back-end para evoluir profissionalmente, adquirir experiência prática e contribuir com projetos de software.</p>
+  <p>Atualmente estudando e desenvolvendo projetos com Python, JavaScript, Node.js e bancos de dados, buscando evoluir na construção de aplicações web e sistemas backend.</p>
 
   ---
 

@@ -8,7 +8,7 @@
 
   ---
 
-  ## 🧠 Tecnologias & Linguagens
+  ## Tecnologias & Linguagens
 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -17,21 +17,21 @@
 
   <br />
 
-  ## 🗄️ Bancos de Dados
+  ## Bancos de Dados
 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 
   <br />
 
-  ## 🛠️ Ferramentas & Sistemas
+  ## Ferramentas & Sistemas
 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
   ---
 
-  ## 🚀 Projeto em Destaque
+  ## Projeto em Destaque
 
   ### 🩺 [PrismaCare](https://github.com/GabrielSenziani/PrismaCare.git)
   **Sistema acadêmico voltado ao gerenciamento de medicamentos para idosos.**
@@ -40,7 +40,7 @@
 
   ---
 
-  ## 📚 Atualmente Estudando
+  ## Atualmente Estudando
   Arquitetura de APIs REST • Estruturação Backend • Boas práticas de desenvolvimento
 
   ---

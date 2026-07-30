@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=THE+WORLD+IS+YOURS.;BACKEND+DEVELOPER" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=SYSTEM+ENGINEER.;BACKEND+DEVELOPER" alt="Typing Header" />
 </div>
 
 <br />

@@ -1,18 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturCook&size=40&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=BACKEND+DEVELOPER" alt="Backend Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=THE+WORLD+IS+YOURS.;BACKEND+DEVELOPER" alt="Typing Header" />
 </div>
-<br /><br />
+
+<br />
 
 <table border="0">
   <tr>
-    <td width="50%" valign="middle">
+    <td width="55%" valign="middle">
       <h1>GABRIEL SENZIANI</h1>
       <p>✦ <b>Class</b> &nbsp;&nbsp;&nbsp;&nbsp;➔ Backend / Systems Student</p>
       <p>✦ <b>Focus</b> &nbsp;&nbsp;&nbsp;➔ APIs REST, Node.js & Python</p>
       <p>✦ <b>Origin</b> &nbsp;&nbsp;➔ Brazil 🇧🇷</p>
     </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY1eWd4Nm5vZ3p3eW9nM3E3aXZvbm43bmx4dnI0eWtrNDk3YzFzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvSg/giphy.gif" width="220px" alt="GIF Destaque" />
+    <td width="45%" align="center" valign="middle">
+      <img src="https://i.pinimg.com/originals/a0/c7/da/a0c7dae2c0862003bf4dd621f50dcc52.gif" width="220px" alt="GIF Destaque" />
     </td>
   </tr>
 </table>

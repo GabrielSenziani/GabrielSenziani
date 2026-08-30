@@ -33,15 +33,9 @@
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
 
-## Statistics
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielSenziani&theme=dark&background=000000&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="49%" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielSenziani&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=false&border_color=333333" alt="Contribution Graph" width="49%" />
-</div>
+
 
 ---
 
